@@ -83,7 +83,7 @@ _Response:_ JSON object with answer from the LLM.
 MIT License
 
 ## 🙌 Contributors
-- **Shubham Murtadak (AI Engineer)** - [GitHub](https://github.com/yourusername)
+- **Shubham Murtadak (AI Engineer)** - [Linkdin](https://www.linkedin.com/in/shubham-murtadak/)
 
 ---
 🚀 **Let's build the future of hotel booking analytics with me!**
