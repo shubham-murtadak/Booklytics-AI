@@ -44,8 +44,8 @@ This project builds an **LLM-powered hotel booking analytics and Q&A system** th
 ## 🔧 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/llm-booking-analytics.git
-cd llm-booking-analytics
+git clone https://github.com/shubham-murtadak/Booklytics-AI.git
+cd Booklytics-AI
 
 # Create a virtual environment
 python -m venv venv
